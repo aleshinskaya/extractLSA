@@ -3,6 +3,7 @@ R code (BETA VERSION) for repeated querying of lsa.colorado.edu with a wordlist 
 
 Instructions: 
 > Download the files and put them into you R package library directory (e.g., /Users/me/Library/R)
+> download Selenium standalone server -http://www.seleniumhq.org/download/- and double-click on the .jar file to run it
 > call library('extractLSA') each time you want to use the package
 > now you have three functions available to you:
 
